@@ -9,3 +9,5 @@
 
 3) use Spring jpa, relationship one to many, many to one, one to one,
 
+4) tài liệu tham khảo
+- https://hellokoding.com/jpa-one-to-many-relationship-mapping-example-with-spring-boot-maven-and-mysql/

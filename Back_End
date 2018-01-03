@@ -5,7 +5,7 @@
 - getById
 - delete
 - update
-- creat
+- create
 
 3) use Spring jpa, relationship one to many, many to one, one to one,
 

@@ -1,0 +1,11 @@
+## Maganement Employee
+1) use Spring boot, Spring jpa, Maven,
+2) execute
+- getAll.
+- getById
+- delete
+- update
+- creat
+
+3) use Spring jpa, relationship one to many, many to one, one to one,
+
